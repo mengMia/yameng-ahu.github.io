@@ -17,10 +17,10 @@ decoding of polar codes, and to use this error pattern to improve the performanc
 ## <span style="color: green"> Education </span>
 * **Sep 2017 - now:** **Master Candidate** in Wuhan University (WHU), Wuhan, China
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
-  - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
+  #- **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2013 - Jun 2017:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
   - **Major:**  Internest of Things Engineering
-  - **GPA:** 3.48/4.0 \| **Rank:** 5/56 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
+  - **GPA:** 3.48/4.0 \| **Rank:** 5/56 &nbsp;&nbsp; #**Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
 * **Ya Meng**, Liping Li, Yanjun Hu “A novel interleaving scheme for polar codes,” Proc. IEEE Vehicular
