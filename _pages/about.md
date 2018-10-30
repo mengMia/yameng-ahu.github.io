@@ -17,7 +17,7 @@ decoding of polar codes, and to use this error pattern to improve the performanc
 
 ## <span style="color: green"> Education </span>
 * **Sep 2017 - now:** **Master Candidate** in Wuhan University (WHU), Wuhan, China
-  - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
+  - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginering 
 
 * **Sep 2013 - Jun 2017:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
   - **Major:**  Internet of Things Engineering
