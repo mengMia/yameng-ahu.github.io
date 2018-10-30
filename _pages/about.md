@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 ### <span style="color: green"> Bio. </span> 
-**Chao Chen** Candidate Ph.D in Zhejiang University of China.
+**Ya Meng** Candidate Ph.D in Zhejiang University of China.
 
 ## <span style="color: green"> Research Interests </span>
-My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications in Computer Vision and Biomedical Informatics. Currently, I am working on Domain Adaptation and their applications to semantic segmentation, object detection.
+My research interest is in **polar codes**. Specifically, my research is to find the error propagation pattern of the SC
+decoding of polar codes, and to use this error pattern to improve the performance of the SC decoding.
 
 ## <span style="color: green"> Education </span>
 * **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
