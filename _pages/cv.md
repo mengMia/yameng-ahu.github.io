@@ -27,7 +27,7 @@ decoding of polar codes, and to use this error pattern to improve the performanc
 Technology Conference Fall (VTC-Fall), 2016. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7880865)
 
 ## <span style="color: green"> Skills </span>
-* **Programming Skills : **Matlab, C/C++, \LATEX, Git.
+* **Programming Skills : Matlab**, C/C++, \LATEX, Git.
 * **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Domain Adaptaion**, **Extreme Learning Machine**.
   - Familiar with most statistical machine learning/signal processing algorithms/techqiues. 
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
