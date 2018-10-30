@@ -19,7 +19,7 @@ decoding of polar codes, and to use this error pattern to improve the performanc
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
   
 * **Sep 2013 - Jun 2017:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
-  - **Major:**  Internest of Things Engineering
+  - **Major:**  Internet of Things Engineering
   - **GPA:** 3.48/4.0 \| **Rank:** 5/56 &nbsp;&nbsp;
 
 ## <span style="color: green"> Publications </span>
