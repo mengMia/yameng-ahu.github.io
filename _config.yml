@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chao Chen"
+  name             : "Ya Meng"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Zhejiang University of China"
-  location         : "Hangzhou, Zhejiang"
+  bio              : "Master Candidate in Wuhan University of China"
+  location         : "Wuhan, Hubei"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=_xDUAtQAAAAJ&hl=zh-CN"
-  email            : "chench@zju.edu.cn"
+  email            : "yameng@whu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chenchao666"
+  github           : "yameng-ahu"
   google_plus      :
   keybase          :
   instagram        :
