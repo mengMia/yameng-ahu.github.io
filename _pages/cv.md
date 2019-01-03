@@ -41,11 +41,11 @@ to improve the performance of a concatenation system with inner polar codes.
 sFlow, influxdb and Grafana.
 
 * **Anhui University:** Part-time Undergraduate Researcher    
-1. <p align="right">Sep. 2014 – Sep. 2017</p>
-  - Investigated the error correlation of the SC decoding of polar codes.
-  - Proposed an error correlation pattern and designed a correlation breaking interleaving scheme to improve
+  1. <p align="right">Sep. 2014 – Sep. 2017</p>
+    - Investigated the error correlation of the SC decoding of polar codes.
+    - Proposed an error correlation pattern and designed a correlation breaking interleaving scheme to improve
 the performance of a concatenation system with inner polar codes.
-  - Gave presentation at an international conference.
+    - Gave presentation at an international conference.
 
 ## <span style="color: green"> Publications </span>
 * **Ya Meng**, Liping Li, Yanjun Hu, “A novel interleaving scheme for polar codes,” Proc. IEEE Vehicular
