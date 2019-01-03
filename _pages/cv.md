@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ### <span style="color: green"> Bio. </span> 
-**Ya Meng** Candidate Master in Wuhan University, China.
+**Ya Meng** Master Candidate in Wuhan University, China.
 
 ## <span style="color: green"> Research Interests </span>
-I'm interested in **coding theory**, **wireless communication** and **network communication**. Specifically, my research is to find the error propagation pattern of the SC decoding of polar codes, and to use this error pattern to improve the performance of concatenation systems with inner polar codes.
+I'm interested in **coding theory**, **wireless communication** and **network communication**. Specifically, my research is to find the error propagation pattern of the SC decoding of **polar codes**, and to use this error pattern to improve the performance of concatenation systems with inner polar codes.
 
 ## <span style="color: green"> Education </span>
 * **Sep 2017 - now:** **Master Candidate** in Wuhan University (WHU), Wuhan, China
