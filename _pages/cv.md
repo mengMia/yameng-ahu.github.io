@@ -39,7 +39,7 @@ to improve the performance of a concatenation system with inner polar codes.
   - Studied the Software Defined Network (SDN) structure, a new network structure.
   - Accomplished the real flow monitoring part of a monitoring system under the SDN structure via
 sFlow, influxdb and Grafana.
-* **Anhui University:** Part-time Undergraduate Researcher1   
+* **Anhui University:** Part-time Undergraduate Researcher    
 <p align="right">Sep. 2014 – Sep. 2017</p>
   - Investigated the error correlation of the SC decoding of polar codes.
   - Proposed an error correlation pattern and designed a correlation breaking interleaving scheme to improve
