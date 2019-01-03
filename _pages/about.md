@@ -32,7 +32,7 @@ Concatenated Systems,” submitted to IEEE Transactions on Communications. [arxi
 Systems,” submitted to China Communications.
 
 ## <span style="color: green"> Skills </span>
-* **Programming Skills : Matlab**, \LATEX, Python, C/C++.
+* **Programming Skills :** Matlab, LATEX, Python, C/C++.
 
 ## <span style="color: green"> Honors & Awards </span>(selected)
 *  &nbsp; &nbsp; **Full** 2015  &nbsp; &nbsp; &nbsp; Scholarship of Anhui Community Association of Taichung  (select Top 1 from 56)
