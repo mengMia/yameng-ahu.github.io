@@ -35,7 +35,7 @@ the overall performance of the serial concatenation system.
   - Present the proof of the error correlation pattern (referred in the research experience in Anhui
 University) and rearrange the implementation of the error correlation pattern in the interleaver
 to improve the performance of a concatenation system with inner polar codes.  
-3. <p align="right">Sep. 2017 – Feb. 2018</p>
+31. <p align="right">Sep. 2017 – Feb. 2018</p>
   - Studied the Software Defined Network (SDN) structure, a new network structure.
   - Accomplished the real flow monitoring part of a monitoring system under the SDN structure via
 sFlow, influxdb and Grafana.
