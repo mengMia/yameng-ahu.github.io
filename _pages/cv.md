@@ -23,9 +23,8 @@ decoding of polar codes, and to use this error pattern to improve the performanc
   - **GPA:** 3.55/4.0 \| **Rank:** 5/56 &nbsp;&nbsp;
 
 ## <span style="color: green"> Research Experience </span>
-* **Wuhan University**
-  Master’s Researcher
-1.           Oct. 2018 – Present
+* **Wuhan University:** Master’s Researcher
+1. Oct. 2018 – Present
   - Investigate the wireless network topology inference.
   - Infer the wireless network topology via the Graph Signal Processing (GSP) technology.
 2. Feb. 2018 – Present
@@ -37,15 +36,15 @@ the overall performance of the serial concatenation system.
 University) and rearrange the implementation of the error correlation pattern in the interleaver
 to improve the performance of a concatenation system with inner polar codes.
 3. Sep. 2017 – Feb. 2018
-• Studied the Software Defined Network (SDN) structure, a new network structure.
-• Accomplished the real flow monitoring part of a monitoring system under the SDN structure via
+  - Studied the Software Defined Network (SDN) structure, a new network structure.
+  - Accomplished the real flow monitoring part of a monitoring system under the SDN structure via
 sFlow, influxdb and Grafana.
-Anhui University Sep. 2014 – Sep. 2017
-Part-time Undergraduate Researcher
-• Investigated the error correlation of the SC decoding of polar codes.
-• Proposed an error correlation pattern and designed a correlation breaking interleaving scheme to improve
+* **Anhui University:** Part-time Undergraduate Researcher
+Sep. 2014 – Sep. 2017
+  - Investigated the error correlation of the SC decoding of polar codes.
+  - Proposed an error correlation pattern and designed a correlation breaking interleaving scheme to improve
 the performance of a concatenation system with inner polar codes.
-• Gave presentation at an international conference.
+  - Gave presentation at an international conference.
 
 ## <span style="color: green"> Publications </span>
 * **Ya Meng**, Liping Li, Yanjun Hu, “A novel interleaving scheme for polar codes,” Proc. IEEE Vehicular
