@@ -48,7 +48,7 @@ the performance of a concatenation system with inner polar codes.
 
 ## <span style="color: green"> Publications </span>
 * **Ya Meng**, Liping Li, Chuan Zhang, “A Correlation-Breaking Interleaving of Polar Codes in
-Concatenated Systems,” submitted to IEEE Transactions on Communications, 2019.  <span style="color: blue">[arxiv](https://arxiv.org/pdf/1702.05202v2.pdf)</span>
+Concatenated Systems,” submitted to IEEE Transactions on Communications, 2019.  <span style="color:#00ffff">[arxiv](https://arxiv.org/pdf/1702.05202v2.pdf)</span>
 * **Ya Meng**, Yi Fang, Chuan Zhang, Liping Li, “LLR Processing of Polar Codes in Concatenation
 Systems,” submitted to China Communications, 2018.
 * **Ya Meng**, Liping Li, Yanjun Hu, “A novel interleaving scheme for polar codes,” Proc. IEEE Vehicular
