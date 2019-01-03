@@ -21,14 +21,19 @@ decoding of polar codes, and to use this error pattern to improve the performanc
 
 * **Sep 2013 - Jun 2017:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
   - **Major:**  Internet of Things Engineering
-  - **GPA:** 3.48/4.0 \| **Rank:** 5/56 &nbsp;&nbsp;
+  - **GPA:** 3.55/4.0 \| **Rank:** 5/56 &nbsp;&nbsp;
 
 ## <span style="color: green"> Publications </span>
-* **Ya Meng**, Liping Li, Yanjun Hu “A novel interleaving scheme for polar codes,” Proc. IEEE Vehicular
+* **Ya Meng**, Liping Li, Yanjun Hu, “A novel interleaving scheme for polar codes,” Proc. IEEE Vehicular
 Technology Conference Fall (VTC-Fall), 2016. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7880865)
+* **Ya Meng**, Chuan Zhang, Liping Li, “A Correlation-Breaking Interleaving of Polar Codes in
+Concatenated Systems,” submitted to IEEE Transactions on Communications. [arxiv](https://arxiv.org/pdf/1702.05202v2.pdf 
+)
+* **Ya Meng**, Yi Fang, Chuan Zhang, Liping Li, “LLR Processing of Polar Codes in Concatenation
+Systems,” submitted to China Communications.
 
 ## <span style="color: green"> Skills </span>
-* **Programming Skills : Matlab**, C/C++, \LATEX, Git.
+* **Programming Skills : Matlab**, \LATEX, Python, C/C++.
 * **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Domain Adaptaion**, **Extreme Learning Machine**.
   - Familiar with most statistical machine learning/signal processing algorithms/techqiues. 
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
