@@ -24,8 +24,8 @@ decoding of polar codes, and to use this error pattern to improve the performanc
 
 ## <span style="color: green"> Research Experience </span>
 * **Wuhan University**
-* Master’s Researcher
-1. Oct. 2018 – Present
+  Master’s Researcher
+1.           Oct. 2018 – Present
   - Investigate the wireless network topology inference.
   - Infer the wireless network topology via the Graph Signal Processing (GSP) technology.
 2. Feb. 2018 – Present
