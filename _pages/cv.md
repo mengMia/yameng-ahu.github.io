@@ -52,7 +52,7 @@ Concatenated Systems,” submitted to IEEE Transactions on Communications, 2019.
 * **Ya Meng**, Yi Fang, Chuan Zhang, Liping Li, “LLR Processing of Polar Codes in Concatenation
 Systems,” submitted to China Communications, 2018.
 * **Ya Meng**, Liping Li, Yanjun Hu, “A novel interleaving scheme for polar codes,” Proc. IEEE Vehicular
-Technology Conference Fall (VTC-Fall), 2016.  <span style="color: blue">[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7880865)</span>
+Technology Conference Fall (VTC-Fall), 2016.  <span style="color:#00ffff">[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7880865)</span>
 
 ## <span style="color: green"> Skills </span>
 * **Programming Skills :** Matlab, LATEX, Python, C/C++.
