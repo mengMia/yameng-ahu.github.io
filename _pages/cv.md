@@ -57,9 +57,6 @@ Systems,” submitted to China Communications.
 
 ## <span style="color: green"> Skills </span>
 * **Programming Skills : Matlab**, \LATEX, Python, C/C++.
-* **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Domain Adaptaion**, **Extreme Learning Machine**.
-  - Familiar with most statistical machine learning/signal processing algorithms/techqiues. 
-  - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
 
 ## <span style="color: green"> Honors & Awards </span>(selected)
 *  &nbsp; &nbsp; **Full** 2015  &nbsp; &nbsp; &nbsp; Scholarship of Anhui Community Association of Taichung
