@@ -24,10 +24,10 @@ decoding of polar codes, and to use this error pattern to improve the performanc
 
 ## <span style="color: green"> Research Experience </span>
 * **Wuhan University:** Master’s Researcher
-1. Oct. 2018 – Present
+1. <p align="right">Oct. 2018 – Present</p>
   - Investigate the wireless network topology inference.
   - Infer the wireless network topology via the Graph Signal Processing (GSP) technology.
-2. Feb. 2018 – Present
+2. <p align="right">Feb. 2018 – Present</p>
   - Explore the negative effect of the unusual log-likelihood ratio (LLR) distribution from SC decoder
 of inner polar codes on the outer LDPC code in a serial concatenation system.
   - Propose a log processing method to regulate the LLR values from the SC decoder and improve
@@ -35,12 +35,11 @@ the overall performance of the serial concatenation system.
   - Present the proof of the error correlation pattern (referred in the research experience in Anhui
 University) and rearrange the implementation of the error correlation pattern in the interleaver
 to improve the performance of a concatenation system with inner polar codes.
-3. Sep. 2017 – Feb. 2018
+3. <p align="right">Sep. 2017 – Feb. 2018</p>
   - Studied the Software Defined Network (SDN) structure, a new network structure.
   - Accomplished the real flow monitoring part of a monitoring system under the SDN structure via
 sFlow, influxdb and Grafana.
-* **Anhui University:** Part-time Undergraduate Researcher
-Sep. 2014 – Sep. 2017
+* **Anhui University:** Part-time Undergraduate Researcher <p align="right">Sep. 2014 – Sep. 2017</p>
   - Investigated the error correlation of the SC decoding of polar codes.
   - Proposed an error correlation pattern and designed a correlation breaking interleaving scheme to improve
 the performance of a concatenation system with inner polar codes.
