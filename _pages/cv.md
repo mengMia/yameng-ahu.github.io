@@ -11,12 +11,11 @@ redirect_from:
 **Ya Meng** Candidate Master in Wuhan University of China.
 
 ## <span style="color: green"> Research Interests </span>
-My research interest is in **polar codes**. Specifically, my research is to find the error propagation pattern of the SC
-decoding of polar codes, and to use this error pattern to improve the performance of the SC decoding.
+I'm interested in **coding theory**, **wireless communication** and **network communication**. Specifically, my research is to find the error propagation pattern of the SC decoding of polar codes, and to use this error pattern to improve the performance of concatenation systems with inner polar codes.
 
 ## <span style="color: green"> Education </span>
 * **Sep 2017 - now:** **Master Candidate** in Wuhan University (WHU), Wuhan, China
-  - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginering 
+  - **Major:**  Electronics and Communication Engineering 
   
 * **Sep 2013 - Jun 2017:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
   - **Major:**  Internet of Things Engineering
